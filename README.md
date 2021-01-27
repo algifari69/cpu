@@ -1,1 +1,1 @@
-# cpu
+# minersu
